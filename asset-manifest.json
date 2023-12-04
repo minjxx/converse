@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/converse/static/css/main.97611ae6.css",
+    "main.js": "/converse/static/js/main.ec675dc1.js",
+    "static/media/Pretendard-Bold.woff": "/converse/static/media/Pretendard-Bold.fa2df9785f5e0c36d909.woff",
+    "static/media/Pretendard-SemiBold.woff": "/converse/static/media/Pretendard-SemiBold.4e73a7b780856a390519.woff",
+    "static/media/Pretendard-Medium.woff": "/converse/static/media/Pretendard-Medium.e447254bdb84237ac4c8.woff",
+    "static/media/Pretendard-Light.woff": "/converse/static/media/Pretendard-Light.bc1121875ed27dc273fb.woff",
+    "static/media/Pretendard-Regular.woff": "/converse/static/media/Pretendard-Regular.a97abcb6f03db9c6720f.woff",
+    "static/media/Montserrat-Bold.woff": "/converse/static/media/Montserrat-Bold.16c9d0d72604797894e3.woff",
+    "index.html": "/converse/index.html",
+    "main.97611ae6.css.map": "/converse/static/css/main.97611ae6.css.map",
+    "main.ec675dc1.js.map": "/converse/static/js/main.ec675dc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97611ae6.css",
+    "static/js/main.ec675dc1.js"
+  ]
+}
