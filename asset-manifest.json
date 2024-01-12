@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/converse/static/css/main.6683bb3f.css",
-    "main.js": "/converse/static/js/main.e8dbf903.js",
-    "static/media/Pretendard-Bold.woff": "/converse/static/media/Pretendard-Bold.fa2df9785f5e0c36d909.woff",
-    "static/media/Pretendard-SemiBold.woff": "/converse/static/media/Pretendard-SemiBold.4e73a7b780856a390519.woff",
-    "static/media/Pretendard-Medium.woff": "/converse/static/media/Pretendard-Medium.e447254bdb84237ac4c8.woff",
-    "static/media/Pretendard-Light.woff": "/converse/static/media/Pretendard-Light.bc1121875ed27dc273fb.woff",
-    "static/media/Pretendard-Regular.woff": "/converse/static/media/Pretendard-Regular.a97abcb6f03db9c6720f.woff",
-    "static/media/Montserrat-Bold.woff": "/converse/static/media/Montserrat-Bold.16c9d0d72604797894e3.woff",
-    "index.html": "/converse/index.html",
-    "main.6683bb3f.css.map": "/converse/static/css/main.6683bb3f.css.map",
-    "main.e8dbf903.js.map": "/converse/static/js/main.e8dbf903.js.map"
+    "main.css": "/static/css/main.f1c1139a.css",
+    "main.js": "/static/js/main.5bfa6ff4.js",
+    "static/media/Pretendard-Bold.woff": "/static/media/Pretendard-Bold.fa2df9785f5e0c36d909.woff",
+    "static/media/Pretendard-SemiBold.woff": "/static/media/Pretendard-SemiBold.4e73a7b780856a390519.woff",
+    "static/media/Pretendard-Medium.woff": "/static/media/Pretendard-Medium.e447254bdb84237ac4c8.woff",
+    "static/media/Pretendard-Light.woff": "/static/media/Pretendard-Light.bc1121875ed27dc273fb.woff",
+    "static/media/Pretendard-Regular.woff": "/static/media/Pretendard-Regular.a97abcb6f03db9c6720f.woff",
+    "static/media/Montserrat-Bold.woff": "/static/media/Montserrat-Bold.16c9d0d72604797894e3.woff",
+    "index.html": "/index.html",
+    "main.f1c1139a.css.map": "/static/css/main.f1c1139a.css.map",
+    "main.5bfa6ff4.js.map": "/static/js/main.5bfa6ff4.js.map"
   },
   "entrypoints": [
-    "static/css/main.6683bb3f.css",
-    "static/js/main.e8dbf903.js"
+    "static/css/main.f1c1139a.css",
+    "static/js/main.5bfa6ff4.js"
   ]
 }
